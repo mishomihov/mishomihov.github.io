@@ -1,0 +1,10 @@
+// This needs to be configured correctly
+
+{
+  "useSmtp": true,
+  "host": "stmp.gmail.com",
+  "port": 587,
+  "username": "mishomihov00@gmail.com",
+  "password": "example_pass",
+  "recipientEmail": "mishomihov00@gmail.com"
+}
